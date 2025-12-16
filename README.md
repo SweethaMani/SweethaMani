@@ -1,10 +1,5 @@
-## Hi there 👋
-
-<!--
-**SweethaMani/SweethaMani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 I'm currently learning more machine learning.<br>I'm currently a college student who is majoring in data science and analytics.<br>I have experience with HTML, CSS, JavaScript and Python.<br><br>
-
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sweethamanikandan86@gmail.com) 
@@ -17,4 +12,3 @@ I'm currently learning more machine learning.<br>I'm currently a college student
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SweethaMani&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
