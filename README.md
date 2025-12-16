@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning more machine learning.<br>I'm currently a college student who is majoring in data science and analytics.<br>I have experience with HTML, CSS, and Python.<br><br>
+I'm currently a college student who is majoring in Data Science and Analytics with a minor in Business Administration.<br>I'm currently learning more about machine learning and artificial intelligence.<br>I have experience with HTML, CSS, GDScript, and Python.<br><br>
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sweethamanikandan86@gmail.com) 
