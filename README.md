@@ -2,7 +2,7 @@
 I'm currently a college student who is majoring in Data Science and Analytics.<br> My interests include data analysis, machine learning, computer vision, and artificial intelligence.<br>I have experience with HTML, CSS, and Python.<br><br>
 
 ## 🌐Email:
-Personal Email: sweethamanikandan86@gmail.com
+Personal Email: sweethamanikandan86@gmail.com <br>
 School Email: smanikandan2024@fau.edu
 
 # 💻 Tech Stack:
